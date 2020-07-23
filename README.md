@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='200"'>  
+<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='200"'>  
+
+# BIO
+Find me on [Twitter](https://twitter.com/vcalderonoyarce), [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-manuel-calder%C3%B3n-oyarce-5a444978/)
+
+--
+
+#### Contact me on Discord: Víctor Calderón Oyarce#1361
 
 <!--
 **vcalderonoyarce/vcalderonoyarce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
