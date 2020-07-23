@@ -1,5 +1,7 @@
-<img align='left' src='https://raw.githubusercontent.com/vcalderonoyarce/vcalderonoyarce/master/images/anno_.gif' width='300"'>  
+<img align='left' src='https://raw.githubusercontent.com/vcalderonoyarce/vcalderonoyarce/master/images/anno_.gif' width='300"'>
+  
 # BIO
+
 Find me on [Twitter](https://twitter.com/vcalderonoyarce), [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-manuel-calder%C3%B3n-oyarce-5a444978/), [Telegram](https://t.me/vcalderonoyarce)
 
 👨‍💻 Full stack web developer.
