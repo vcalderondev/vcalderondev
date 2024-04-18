@@ -2,7 +2,7 @@
   
 # BIO
 
-Find me on [Twitter](https://twitter.com/vcalderonoyarce), [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-manuel-calder%C3%B3n-oyarce-5a444978/), [Telegram](https://t.me/vcalderonoyarce)
+Find me on [Twitter](https://twitter.com/vcalderondev), [LinkedIn](https://www.linkedin.com/in/vcalderondev), [Telegram](https://t.me/vcalderondev), [Instagram](https://instagram.com/vcalderondev), [Facebook](https://facebook.com/vcalderondev), [Youtube](https://www.youtube.com/channel/UCH9bkAzczTtl07IMeunzsww)
 
 👨‍💻 Full stack web developer.
 
