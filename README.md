@@ -1,7 +1,7 @@
 ## Hola :wave:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vcalderondev/vcalderondev/master/img/github.gif" width=100>
+  <img src="https://raw.githubusercontent.com/vcalderondev/vcalderondev/master/images/github.gif" width=100>
   <br><br>
   <samp>
     Mi nombre es Víctor Calderón Oyarce, soy un experimentado desarrollador web full stack con más de 10 años de experiencia en el desarrollo de sitios webs increíbles.
