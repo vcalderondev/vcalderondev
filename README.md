@@ -1,12 +1,14 @@
 ## Hola :wave:
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vcalderondev/vcalderondev/master/images/github.gif" width=100>
-  <br><br>
-  <samp>
-    Mi nombre es Víctor Calderón Oyarce, soy un experimentado desarrollador web full stack con más de 10 años de experiencia en el desarrollo de sitios webs increíbles.
-  </samp>
-</p>
+
+![image]({https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white})
+![image]({https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white})
+![image]({https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white})
+
+![image]({https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white})
+![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
+![image]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white})
+![image]({https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white})
 
 <img align='left' src='https://raw.githubusercontent.com/vcalderonoyarce/vcalderonoyarce/master/images/anno_.gif' width='300"'>
   
