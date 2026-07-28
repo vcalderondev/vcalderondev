@@ -15,6 +15,38 @@ Actualmente estoy inmerso en la intersección del desarrollo de software y la **
 
 ---
 
+## 🚀 Producto Propio
+
+### [PseudoIDE](https://pseudoide.dev) — IDE de pseudocódigo con intérprete propio
+Un IDE completo para aprender a programar en español, gratuito, en web y escritorio.
+Construido de principio a fin: **intérprete de pseudocódigo con soporte de POO**, capa de
+**transpilación a JavaScript en Web Workers**, **depurador paso a paso** con inspección de
+variables, **generación de diagramas de flujo** en vivo, editor **Monaco** con language
+providers propios, integración **Git** por IPC y vigilancia de archivos en tiempo real.
+
+Distribuido en **web, Windows, macOS y Linux** (instalador, AppImage y .deb) con
+auto-updater e i18n español/inglés. 15 releases versionadas con
+[changelog público](https://pseudoide.dev/es/changelog).
+
+`Angular 21` · `Electron` · `TypeScript` · `Monaco` · `Web Workers` · `Cloudflare R2`
+
+### [@vcalderondev/ukit-css](https://www.npmjs.com/package/@vcalderondev/ukit-css) — Motor JIT de CSS utility-first
+Motor propio publicado en npm: escanea el código fuente, extrae solo las clases realmente
+usadas y emite únicamente ese CSS. Incluye CLI, plugin de Vite y plugin de PostCSS, y
+funciona con React, Vue, Angular, Svelte, Next.js, Astro y HTML plano.
+
+En un proyecto con 46 utilidades distintas emite **~2,4 KB minificados** frente a los
+~770 KB de una librería de utilidades estática. En producción dentro de PseudoIDE.
+
+`Node.js` · `TypeScript` · `PostCSS` · `Vite`
+
+### [PSeInt - Un fork de PSeInt](https://github.com/vcalderondev/pseint) — Versión funcional adaptada, en C++
+Fork funcional de la herramienta de [PSeInt](https://pseint.sourceforge.io/) de Pablo Novara,
+con soporte nativo para **macOS Apple Silicon (ARM64)**. Proyecto personal sin fines
+comerciales, con atribución al autor original.
+
+`C++` · `wxWidgets` · `Make`
+
 ## 🛠️ Tecnologías & Stack Técnico
 
 ### 🤖 Inteligencia Artificial & MLOps
@@ -41,5 +73,6 @@ Actualmente estoy inmerso en la intersección del desarrollo de software y la **
 Si estás interesado en colaborar en proyectos complejos de arquitectura cloud, integraciones avanzadas de IA, o si simplemente quieres hablar sobre optimización de rendimiento y desarrollo moderno:
 
 * **Sitio Web Personal:** [vcalderon.dev](https://vcalderon.dev)
+* **Producto:** [pseudoide.dev](https://pseudoide.dev)
 * **LinkedIn:** [linkedin.com/in/vcalderondev](https://linkedin.com/in/vcalderondev)
 * **Correo Electrónico:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
