@@ -1,17 +1,18 @@
 # Víctor Calderón Oyarce 👋
 
 ### Senior Full Stack Engineer · TypeScript · NestJS · Angular · Google Cloud
-### Fundador de [Grid Technologies](https://gridtechnologies.cl)
+### Fundador de [Grid Technologies](https://gridtechnologies.cl) · Creador de [Grid Radar](https://gridradar.cl)
 
 <p>
   <a href="https://vcalderon.dev"><img alt="Sitio" src="https://img.shields.io/badge/vcalderon.dev-15243b?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://gridradar.cl"><img alt="Grid Radar" src="https://img.shields.io/badge/Grid_Radar-0ea5e9?style=flat-square&logo=chartdotjs&logoColor=white"></a>
   <a href="https://gridtechnologies.cl"><img alt="Grid Technologies" src="https://img.shields.io/badge/Grid_Technologies-1f6fb2?style=flat-square&logo=icloud&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vcalderondev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mail@vcalderon.dev"><img alt="Email" src="https://img.shields.io/badge/mail@vcalderon.dev-5a6472?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 🇨🇱 **Constitución, Chile** — disponible para trasladarme a Santiago · **Remoto o híbrido**
-💼 Empresa: **[Grid Technologies SpA](https://gridtechnologies.cl)** · 🌐 **[vcalderon.dev](https://vcalderon.dev)**
+💼 Empresa: **[Grid Technologies SpA](https://gridtechnologies.cl)** · 🎯 Producto Principal: **[Grid Radar](https://gridradar.cl)** · 🌐 **[vcalderon.dev](https://vcalderon.dev)**
 
 ---
 
@@ -32,19 +33,16 @@ Integro **IA generativa en flujos de negocio reales, no en prototipos**: agentes
 
 Fundé **[Grid Technologies SpA](https://gridtechnologies.cl)** (Santiago de Chile) para **modernizar negocios que aún corren en planillas y sistemas viejos**: software a medida, automatización e **IA aplicada**.
 
-Todo el ecosistema vive en un **monorepo de más de 30 repositorios** sobre una misma base técnica: **arquitectura hexagonal y DDD**, contratos compartidos como SSOT, **GCP** (Cloud Run, Cloud SQL PostgreSQL, Pub/Sub, Cloud Scheduler) y **flujos basados en eventos**.
+Todo el ecosistema vive en una arquitectura distribuida y desacoplada sobre una misma base técnica: **arquitectura hexagonal y DDD**, contratos compartidos como SSOT, **GCP** (Cloud Run, Cloud SQL PostgreSQL, Pub/Sub, Cloud Scheduler) y **flujos basados en eventos**.
 
-### Productos
+### Plataformas & Soluciones
 
-| Producto | Qué resuelve |
+| Plataforma | Qué resuelve |
 |---|---|
-| **[Grid Flow](https://gridflow.cl)** | **El agente de ventas por WhatsApp para distribuidores B2B.** Responde con el catálogo real, calcula el IVA del 19 % en el backend, envía el link de pago y **emite la boleta o factura ante el SII**. WhatsApp Business oficial, 24/7. |
-| **[Grid Forge](https://gridforge.cl)** | **Del prompt al software desplegado.** Entorno de desarrollo autónomo con **orquestación multi-agente**: modela arquitecturas en un *canvas* visual (Topology Canvas), genera código de producción verificado y lo lanza a la nube. |
-| **Grid Radar** | **Inteligencia competitiva de precios** con extracción resiliente (ejecuciones programadas, detección de cambios y segmentación geográfica) y **servidor MCP propio** para que los agentes consulten los datos. |
-| **Grid Accounts** | **Identidad y cobro** para todo el ecosistema: proveedor **OAuth2/OIDC** (RS256/JWKS, **WebAuthn** y **TOTP**), catálogo de servicios y facturación recurrente en CLP y USD, con eventos de cobro en Cloud Pub/Sub. |
-| **Motor DTE (SII)** | **Emisión de documentos tributarios electrónicos** chilenos: boleta 39 y factura 33 con firma **XML-DSIG**, manejo de **CAF** y generación de **TED**. |
+| **[Grid Radar](https://gridradar.cl)** | **Inteligencia competitiva de precios B2B (Producto Insignia).** Monitoreo cross-retailer en tiempo real, detección de quiebres de stock, auditoría MAP, recomendaciones estratégicas para e-commerce y **servidor agéntico MCP oficial** para interoperabilidad con agentes de IA. Extracción serverless resiliente bajo demanda sobre Google Cloud. |
+| **[Grid Accounts](https://accounts.gridtechnologies.cl)** | **Identidad y gobernanza central (Capa Interna).** Proveedor unificado de identidad **OAuth2/OIDC** (RS256/JWKS, **WebAuthn/Passkeys** y **TOTP**), catálogo de servicios y motor central de facturación y suscripciones recurrentes que sostiene el acceso a Grid Radar. |
 
-> **Ecosistema en construcción:** Grid Flow, Grid Forge, Grid Radar, Grid Accounts, Grid Teams, Grid Payments, Grid Mail y Grid Lex comparten la misma plataforma, el mismo sistema de identidad y el mismo motor tributario.
+> **Enfoque de producto:** Grid Technologies concentra su oferta comercial exclusivamente en **[Grid Radar](https://gridradar.cl)**, respaldada por una infraestructura interna de alta fidelidad (identidad unificada con Grid Accounts, mensajería transaccional y orquestación serverless en Google Cloud).
 
 ---
 
@@ -99,12 +97,13 @@ En un proyecto con 46 utilidades distintas emite **~2,4 KB minificados** frente 
 
 ## 📬 Conectemos
 
-Si te interesa la arquitectura cloud, la IA aplicada a negocio real o los productos de Grid:
+Si te interesa la arquitectura cloud, la IA aplicada a negocio real o la inteligencia de mercado con Grid Radar:
 
 * 🌐 **Sitio personal:** [vcalderon.dev](https://vcalderon.dev)
-* 🏢 **Grid Technologies:** [gridtechnologies.cl](https://gridtechnologies.cl) · [Grid Flow](https://gridflow.cl) · [Grid Forge](https://gridforge.cl)
+* 🎯 **Grid Radar:** [gridradar.cl](https://gridradar.cl)
+* 🏢 **Grid Technologies:** [gridtechnologies.cl](https://gridtechnologies.cl)
 * 🚀 **Producto propio:** [pseudoide.dev](https://pseudoide.dev)
 * 💼 **LinkedIn:** [linkedin.com/in/vcalderondev](https://www.linkedin.com/in/vcalderondev/)
 * ✉️ **Correo:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
 
-<sub>PseudoIDE y @vcalderondev/ukit-css son productos propios. Grid Flow, Grid Forge, Grid Radar, Grid Accounts y el motor DTE son productos de Grid Technologies SpA.</sub>
+<sub>PseudoIDE y @vcalderondev/ukit-css son productos independientes propios. Grid Radar y Grid Accounts son plataformas de Grid Technologies SpA.</sub>
