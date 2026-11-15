@@ -48,7 +48,7 @@ The whole ecosystem lives in a distributed, decoupled architecture on one shared
 
 ## 🚀 My own products
 
-### [PseudoIDE](https://pseudoide.dev) — Pseudocode IDE with its own interpreter
+### <img src="https://pseudoide.dev/favicon.svg" alt="" height="18" align="center"> [PseudoIDE](https://pseudoide.dev) — Pseudocode IDE with its own interpreter
 A complete IDE for learning to program in Spanish, free, on web and desktop.
 Built end to end: a **pseudocode interpreter with OOP support**, a
 **transpilation layer to JavaScript running in Web Workers**, a **step-by-step debugger** with
@@ -121,12 +121,14 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 
 If you are interested in cloud architecture, AI applied to real business, or market intelligence with Grid Radar:
 
-* 🌐 **Personal site:** [vcalderon.dev](https://vcalderon.dev)
-* <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> **Grid Radar:** [gridradar.cl](https://gridradar.cl)
-* <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> **Grid Technologies:** [gridtechnologies.cl](https://gridtechnologies.cl)
-* 🚀 **Own product:** [pseudoide.dev](https://pseudoide.dev)
-* <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="center"> **Lumen PSX:** [lpsx.vcalderon.dev](https://lpsx.vcalderon.dev)
-* 💼 **LinkedIn:** [linkedin.com/in/vcalderondev](https://www.linkedin.com/in/vcalderondev/)
-* ✉️ **Email:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
+<table>
+  <tr><td align="center">🌐</td><td><strong>Personal site</strong></td><td><a href="https://vcalderon.dev">vcalderon.dev</a></td></tr>
+  <tr><td align="center"><img src="https://gridradar.cl/grid-radar.svg" alt="" width="20" height="20"></td><td><strong>Grid Radar</strong></td><td><a href="https://gridradar.cl">gridradar.cl</a></td></tr>
+  <tr><td align="center"><img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" width="20" height="20"></td><td><strong>Grid Technologies</strong></td><td><a href="https://gridtechnologies.cl">gridtechnologies.cl</a></td></tr>
+  <tr><td align="center"><img src="https://pseudoide.dev/favicon.svg" alt="" width="20" height="20"></td><td><strong>PseudoIDE</strong></td><td><a href="https://pseudoide.dev">pseudoide.dev</a></td></tr>
+  <tr><td align="center"><img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" width="20" height="20"></td><td><strong>Lumen PSX</strong></td><td><a href="https://lpsx.vcalderon.dev">lpsx.vcalderon.dev</a></td></tr>
+  <tr><td align="center">💼</td><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/vcalderondev/">linkedin.com/in/vcalderondev</a></td></tr>
+  <tr><td align="center">✉️</td><td><strong>Email</strong></td><td><a href="mailto:mail@vcalderon.dev">mail@vcalderon.dev</a></td></tr>
+</table>
 
 <sub>PseudoIDE and @vcalderondev/ukit-css are my own independent products. Lumen PSX is a personal open-source project, not affiliated with Sony. Grid Radar is a platform of Grid Technologies SpA.</sub>
