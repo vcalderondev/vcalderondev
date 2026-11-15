@@ -41,7 +41,6 @@ The whole ecosystem lives in a distributed, decoupled architecture on one shared
 | Platform | What it solves |
 |---|---|
 | <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> **[Grid Radar](https://gridradar.cl)** | **B2B competitive price intelligence (flagship product).** Real-time cross-retailer monitoring, stock-out detection, MAP auditing, strategic recommendations for e-commerce and an **official agentic MCP server** for interoperability with AI agents. Resilient, on-demand serverless extraction on Google Cloud. |
-| <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> **[Grid Accounts](https://accounts.gridtechnologies.cl)** | **Central identity and governance (internal layer).** Unified **OAuth2/OIDC** identity provider (RS256/JWKS, **WebAuthn/Passkeys** and **TOTP**), service catalog and the central billing and recurring-subscription engine behind access to Grid Radar. |
 
 > **Product focus:** Grid Technologies concentrates its commercial offering exclusively on **[Grid Radar](https://gridradar.cl)**, backed by high-fidelity internal infrastructure (unified identity with Grid Accounts, transactional messaging and serverless orchestration on Google Cloud).
 
@@ -130,4 +129,4 @@ If you are interested in cloud architecture, AI applied to real business, or mar
 * 💼 **LinkedIn:** [linkedin.com/in/vcalderondev](https://www.linkedin.com/in/vcalderondev/)
 * ✉️ **Email:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
 
-<sub>PseudoIDE and @vcalderondev/ukit-css are my own independent products. Lumen PSX is a personal open-source project, not affiliated with Sony. Grid Radar and Grid Accounts are platforms of Grid Technologies SpA.</sub>
+<sub>PseudoIDE and @vcalderondev/ukit-css are my own independent products. Lumen PSX is a personal open-source project, not affiliated with Sony. Grid Radar is a platform of Grid Technologies SpA.</sub>
