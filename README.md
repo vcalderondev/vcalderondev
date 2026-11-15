@@ -1,7 +1,7 @@
 # Víctor Calderón Oyarce 👋
 
 ### Senior Full Stack Engineer · TypeScript · NestJS · Angular · Google Cloud
-### Founder of [Grid Technologies](https://gridtechnologies.cl) · Creator of [Grid Radar](https://gridradar.cl)
+### Founder of <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> [Grid Technologies](https://gridtechnologies.cl) · Creator of <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> [Grid Radar](https://gridradar.cl)
 
 <p>
   <a href="https://vcalderon.dev"><img alt="Website" src="https://img.shields.io/badge/vcalderon.dev-15243b?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -30,7 +30,7 @@ I put **generative AI into real business flows, not prototypes**: LLM agents gro
 
 ---
 
-## 🏢 Grid Technologies — my company
+## <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> Grid Technologies — my company
 
 I founded **[Grid Technologies SpA](https://gridtechnologies.cl)** (Santiago, Chile) to **modernize businesses that still run on spreadsheets and legacy systems**: custom software, automation and **applied AI**.
 
@@ -40,8 +40,8 @@ The whole ecosystem lives in a distributed, decoupled architecture on one shared
 
 | Platform | What it solves |
 |---|---|
-| **[Grid Radar](https://gridradar.cl)** | **B2B competitive price intelligence (flagship product).** Real-time cross-retailer monitoring, stock-out detection, MAP auditing, strategic recommendations for e-commerce and an **official agentic MCP server** for interoperability with AI agents. Resilient, on-demand serverless extraction on Google Cloud. |
-| **[Grid Accounts](https://accounts.gridtechnologies.cl)** | **Central identity and governance (internal layer).** Unified **OAuth2/OIDC** identity provider (RS256/JWKS, **WebAuthn/Passkeys** and **TOTP**), service catalog and the central billing and recurring-subscription engine behind access to Grid Radar. |
+| <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> **[Grid Radar](https://gridradar.cl)** | **B2B competitive price intelligence (flagship product).** Real-time cross-retailer monitoring, stock-out detection, MAP auditing, strategic recommendations for e-commerce and an **official agentic MCP server** for interoperability with AI agents. Resilient, on-demand serverless extraction on Google Cloud. |
+| <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> **[Grid Accounts](https://accounts.gridtechnologies.cl)** | **Central identity and governance (internal layer).** Unified **OAuth2/OIDC** identity provider (RS256/JWKS, **WebAuthn/Passkeys** and **TOTP**), service catalog and the central billing and recurring-subscription engine behind access to Grid Radar. |
 
 > **Product focus:** Grid Technologies concentrates its commercial offering exclusively on **[Grid Radar](https://gridradar.cl)**, backed by high-fidelity internal infrastructure (unified identity with Grid Accounts, transactional messaging and serverless orchestration on Google Cloud).
 
@@ -76,7 +76,7 @@ In a project with 46 distinct utilities it emits **~2.4 KB minified**, against t
 
 ## 🎮 Open source
 
-### [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
+### <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="center"> [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
 A fast, lightweight frontend written in C for Sony's PlayStation Classic: a **3D jewel-case
 carousel in OpenGL ES 3.0** with spring physics, lighting and floor reflections, in a
 **single ~75 KB binary**. It launches games in RetroArch and returns to the same game
@@ -123,10 +123,10 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 If you are interested in cloud architecture, AI applied to real business, or market intelligence with Grid Radar:
 
 * 🌐 **Personal site:** [vcalderon.dev](https://vcalderon.dev)
-* 🎯 **Grid Radar:** [gridradar.cl](https://gridradar.cl)
-* 🏢 **Grid Technologies:** [gridtechnologies.cl](https://gridtechnologies.cl)
+* <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> **Grid Radar:** [gridradar.cl](https://gridradar.cl)
+* <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> **Grid Technologies:** [gridtechnologies.cl](https://gridtechnologies.cl)
 * 🚀 **Own product:** [pseudoide.dev](https://pseudoide.dev)
-* 🎮 **Lumen PSX:** [lpsx.vcalderon.dev](https://lpsx.vcalderon.dev)
+* <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="center"> **Lumen PSX:** [lpsx.vcalderon.dev](https://lpsx.vcalderon.dev)
 * 💼 **LinkedIn:** [linkedin.com/in/vcalderondev](https://www.linkedin.com/in/vcalderondev/)
 * ✉️ **Email:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
 
