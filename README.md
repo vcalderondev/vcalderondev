@@ -122,7 +122,7 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 If you are interested in cloud architecture, AI applied to real business, or market intelligence with Grid Radar:
 
 <table>
-  <tr><td align="center">🌐</td><td><strong>Personal site</strong></td><td><a href="https://vcalderon.dev">vcalderon.dev</a></td></tr>
+  <tr><td align="center"><img src="https://vcalderon.dev/favicon/apple-touch-icon.png" alt="" width="20" height="20"></td><td><strong>Personal site</strong></td><td><a href="https://vcalderon.dev">vcalderon.dev</a></td></tr>
   <tr><td align="center"><img src="https://gridradar.cl/grid-radar.svg" alt="" width="20" height="20"></td><td><strong>Grid Radar</strong></td><td><a href="https://gridradar.cl">gridradar.cl</a></td></tr>
   <tr><td align="center"><img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" width="20" height="20"></td><td><strong>Grid Technologies</strong></td><td><a href="https://gridtechnologies.cl">gridtechnologies.cl</a></td></tr>
   <tr><td align="center"><img src="https://pseudoide.dev/favicon.svg" alt="" width="20" height="20"></td><td><strong>PseudoIDE</strong></td><td><a href="https://pseudoide.dev">pseudoide.dev</a></td></tr>
