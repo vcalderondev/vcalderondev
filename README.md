@@ -1,7 +1,7 @@
 # Víctor Calderón Oyarce
 
 ### Senior Full Stack Engineer · TypeScript · NestJS · Angular · Google Cloud
-### Founder of <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> [Grid Technologies](https://gridtechnologies.cl) · Creator of <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> [Grid Radar](https://gridradar.cl)
+### Founder of <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="absmiddle"> [Grid Technologies](https://gridtechnologies.cl) · Creator of <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="absmiddle"> [Grid Radar](https://gridradar.cl)
 
 <p>
   <a href="https://vcalderon.dev"><img alt="Website" src="https://img.shields.io/badge/vcalderon.dev-15243b?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -12,25 +12,25 @@
   <a href="mailto:mail@vcalderon.dev"><img alt="Email" src="https://img.shields.io/badge/mail@vcalderon.dev-5a6472?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/location-dot.svg"><img src="images/icons/light/location-dot.svg" alt="" height="16" align="center"></picture> **Constitución, Chile** — open to relocating to Santiago · **Remote or hybrid**
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/building.svg"><img src="images/icons/light/building.svg" alt="" height="16" align="center"></picture> Company: **[Grid Technologies SpA](https://gridtechnologies.cl)** · <img src="https://gridradar.cl/grid-radar.svg" alt="" height="16" align="center"> Main product: **[Grid Radar](https://gridradar.cl)** · <img src="https://vcalderon.dev/favicon/apple-touch-icon.png" alt="" height="16" align="center"> **[vcalderon.dev](https://vcalderon.dev)**
+<picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/location-dot.svg"><img src="images/icons/light/location-dot.svg" alt="" height="16" align="absmiddle"></picture> **Constitución, Chile** — open to relocating to Santiago · **Remote or hybrid**
+<picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/building.svg"><img src="images/icons/light/building.svg" alt="" height="16" align="absmiddle"></picture> Company: **[Grid Technologies SpA](https://gridtechnologies.cl)** · <img src="https://gridradar.cl/grid-radar.svg" alt="" height="16" align="absmiddle"> Main product: **[Grid Radar](https://gridradar.cl)** · <img src="https://vcalderon.dev/favicon/apple-touch-icon.png" alt="" height="16" align="absmiddle"> **[vcalderon.dev](https://vcalderon.dev)**
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/user.svg"><img src="images/icons/light/user.svg" alt="" height="18" align="center"></picture> About me
+## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/user.svg"><img src="images/icons/light/user.svg" alt="" height="18" align="absmiddle"></picture> About me
 
 **Full stack engineer with 13 years of experience**, **8 of them as technical lead** of a platform. I design and operate distributed platforms on end-to-end **TypeScript** —NestJS and Node.js on the backend, Angular on the frontend, **Google Cloud** for infrastructure— with **hexagonal architecture, DDD and event-driven architectures**.
 
 I put **generative AI into real business flows, not prototypes**: LLM agents grounded on the database, function calling with strict input and output contracts, schema validation, and control over latency and cost.
 
-* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/sitemap.svg"><img src="images/icons/light/sitemap.svg" alt="" height="16" align="center"></picture> **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts between frontend and backend, idempotent events and retries with backoff.
-* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/robot.svg"><img src="images/icons/light/robot.svg" alt="" height="16" align="center"></picture> **Applied AI:** Vertex AI + Gemini in production, LLM agents, RAG, embeddings, AI-driven data normalization and matching.
-* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/cloud.svg"><img src="images/icons/light/cloud.svg" alt="" height="16" align="center"></picture> **Cloud:** GCP (GKE, Cloud Run, Cloud Functions, Pub/Sub, Dataflow, Cloud Scheduler, Cloud SQL, BigQuery), Docker, Kubernetes, CI/CD.
-* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/vial.svg"><img src="images/icons/light/vial.svg" alt="" height="16" align="center"></picture> **Quality:** Clean Code, SOLID, unit and integration tests with Jest, Vitest and Playwright as the gate before production.
+* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/sitemap.svg"><img src="images/icons/light/sitemap.svg" alt="" height="16" align="absmiddle"></picture> **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts between frontend and backend, idempotent events and retries with backoff.
+* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/robot.svg"><img src="images/icons/light/robot.svg" alt="" height="16" align="absmiddle"></picture> **Applied AI:** Vertex AI + Gemini in production, LLM agents, RAG, embeddings, AI-driven data normalization and matching.
+* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/cloud.svg"><img src="images/icons/light/cloud.svg" alt="" height="16" align="absmiddle"></picture> **Cloud:** GCP (GKE, Cloud Run, Cloud Functions, Pub/Sub, Dataflow, Cloud Scheduler, Cloud SQL, BigQuery), Docker, Kubernetes, CI/CD.
+* <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/vial.svg"><img src="images/icons/light/vial.svg" alt="" height="16" align="absmiddle"></picture> **Quality:** Clean Code, SOLID, unit and integration tests with Jest, Vitest and Playwright as the gate before production.
 
 ---
 
-## <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> Grid Technologies — my company
+## <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="absmiddle"> Grid Technologies — my company
 
 I founded **[Grid Technologies SpA](https://gridtechnologies.cl)** (Santiago, Chile) to **modernize businesses that still run on spreadsheets and legacy systems**: custom software, automation and **applied AI**.
 
@@ -40,15 +40,15 @@ The whole ecosystem lives in a distributed, decoupled architecture on one shared
 
 | Platform | What it solves |
 |---|---|
-| <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> **[Grid Radar](https://gridradar.cl)** | **B2B competitive price intelligence (flagship product).** Real-time cross-retailer monitoring, stock-out detection, MAP auditing, strategic recommendations for e-commerce and an **official agentic MCP server** for interoperability with AI agents. Resilient, on-demand serverless extraction on Google Cloud. |
+| <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="absmiddle"> **[Grid Radar](https://gridradar.cl)** | **B2B competitive price intelligence (flagship product).** Real-time cross-retailer monitoring, stock-out detection, MAP auditing, strategic recommendations for e-commerce and an **official agentic MCP server** for interoperability with AI agents. Resilient, on-demand serverless extraction on Google Cloud. |
 
 > **Product focus:** Grid Technologies concentrates its commercial offering exclusively on **[Grid Radar](https://gridradar.cl)**, backed by high-fidelity internal infrastructure (unified identity with Grid Accounts, transactional messaging and serverless orchestration on Google Cloud).
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/rocket.svg"><img src="images/icons/light/rocket.svg" alt="" height="18" align="center"></picture> My own products
+## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/rocket.svg"><img src="images/icons/light/rocket.svg" alt="" height="18" align="absmiddle"></picture> My own products
 
-### <img src="https://pseudoide.dev/favicon.svg" alt="" height="18" align="center"> [PseudoIDE](https://pseudoide.dev) — Pseudocode IDE with its own interpreter
+### <img src="https://pseudoide.dev/favicon.svg" alt="" height="18" align="absmiddle"> [PseudoIDE](https://pseudoide.dev) — Pseudocode IDE with its own interpreter
 A complete IDE for learning to program in Spanish, free, on web and desktop.
 Built end to end: a **pseudocode interpreter with OOP support**, a
 **transpilation layer to JavaScript running in Web Workers**, a **step-by-step debugger** with
@@ -73,9 +73,9 @@ In a project with 46 distinct utilities it emits **~2.4 KB minified**, against t
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/code-branch.svg"><img src="images/icons/light/code-branch.svg" alt="" height="18" align="center"></picture> Open source
+## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/code-branch.svg"><img src="images/icons/light/code-branch.svg" alt="" height="18" align="absmiddle"></picture> Open source
 
-### <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="center"> [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
+### <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="absmiddle"> [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
 A fast, lightweight frontend written in C for Sony's PlayStation Classic: a **3D jewel-case
 carousel in OpenGL ES 3.0** with spring physics, lighting and floor reflections, in a
 **single ~75 KB binary**. It launches games in RetroArch and returns to the same game
@@ -94,9 +94,9 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/screwdriver-wrench.svg"><img src="images/icons/light/screwdriver-wrench.svg" alt="" height="18" align="center"></picture> Technologies & Tech Stack
+## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/screwdriver-wrench.svg"><img src="images/icons/light/screwdriver-wrench.svg" alt="" height="18" align="absmiddle"></picture> Technologies & Tech Stack
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/code.svg"><img src="images/icons/light/code.svg" alt="" height="18" align="center"></picture> Architecture & Development
+### <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/code.svg"><img src="images/icons/light/code.svg" alt="" height="18" align="absmiddle"></picture> Architecture & Development
 * **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts, event-driven architectures (EDA), idempotency and retries
 * **Backend:** Node.js, NestJS, TypeScript, Express, TypeORM, REST APIs, OAuth2/OIDC and SSO
 * **Frontend:** Angular (standalone + signals), React, Electron, Capacitor, Monaco Editor, SASS, Tailwind CSS, i18n
@@ -104,20 +104,20 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 * **Testing:** Jest, Vitest and Playwright
 * **Systems:** C, OpenGL ES, SDL2, embedded Linux, cross-compilation for ARM
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/robot.svg"><img src="images/icons/light/robot.svg" alt="" height="18" align="center"></picture> Applied Artificial Intelligence
+### <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/robot.svg"><img src="images/icons/light/robot.svg" alt="" height="18" align="absmiddle"></picture> Applied Artificial Intelligence
 * Google Cloud **Vertex AI** / Generative AI Studio · **Gemini** · embeddings
 * **LLM agents grounded** on the database, function calling and strict input/output contracts
 * **RAG**, AI-driven data normalization and matching
 * Custom **MCP server** and multi-agent orchestration
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/cloud.svg"><img src="images/icons/light/cloud.svg" alt="" height="18" align="center"></picture> Cloud & DevOps
+### <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/cloud.svg"><img src="images/icons/light/cloud.svg" alt="" height="18" align="absmiddle"></picture> Cloud & DevOps
 * **Platform:** Google Cloud Platform (GKE, Cloud Run, Cloud Functions, **Pub/Sub**, **Dataflow**, **Cloud Scheduler**, Cloud SQL, BigQuery)
 * **Containers:** Docker, Kubernetes (GKE) · **CDN:** Cloudflare
 * **CI/CD:** GitHub Actions and Google Cloud Build
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/paper-plane.svg"><img src="images/icons/light/paper-plane.svg" alt="" height="18" align="center"></picture> Let's connect
+## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/paper-plane.svg"><img src="images/icons/light/paper-plane.svg" alt="" height="18" align="absmiddle"></picture> Let's connect
 
 If you are interested in cloud architecture, AI applied to real business, or market intelligence with Grid Radar:
 
