@@ -1,109 +1,133 @@
 # Víctor Calderón Oyarce 👋
 
 ### Senior Full Stack Engineer · TypeScript · NestJS · Angular · Google Cloud
-### Fundador de [Grid Technologies](https://gridtechnologies.cl) · Creador de [Grid Radar](https://gridradar.cl)
+### Founder of [Grid Technologies](https://gridtechnologies.cl) · Creator of [Grid Radar](https://gridradar.cl)
 
 <p>
-  <a href="https://vcalderon.dev"><img alt="Sitio" src="https://img.shields.io/badge/vcalderon.dev-15243b?style=flat-square&logo=googlechrome&logoColor=white"></a>
+  <a href="https://vcalderon.dev"><img alt="Website" src="https://img.shields.io/badge/vcalderon.dev-15243b?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://gridradar.cl"><img alt="Grid Radar" src="https://img.shields.io/badge/Grid_Radar-0ea5e9?style=flat-square&logo=chartdotjs&logoColor=white"></a>
   <a href="https://gridtechnologies.cl"><img alt="Grid Technologies" src="https://img.shields.io/badge/Grid_Technologies-1f6fb2?style=flat-square&logo=icloud&logoColor=white"></a>
+  <a href="https://lpsx.vcalderon.dev"><img alt="Lumen PSX" src="https://img.shields.io/badge/Lumen_PSX-003791?style=flat-square&logo=playstation&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vcalderondev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mail@vcalderon.dev"><img alt="Email" src="https://img.shields.io/badge/mail@vcalderon.dev-5a6472?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-🇨🇱 **Constitución, Chile** — disponible para trasladarme a Santiago · **Remoto o híbrido**
-💼 Empresa: **[Grid Technologies SpA](https://gridtechnologies.cl)** · 🎯 Producto Principal: **[Grid Radar](https://gridradar.cl)** · 🌐 **[vcalderon.dev](https://vcalderon.dev)**
+🇨🇱 **Constitución, Chile** — open to relocating to Santiago · **Remote or hybrid**
+💼 Company: **[Grid Technologies SpA](https://gridtechnologies.cl)** · 🎯 Main product: **[Grid Radar](https://gridradar.cl)** · 🌐 **[vcalderon.dev](https://vcalderon.dev)**
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-**Full stack engineer con 13 años de experiencia** y **8 como responsable técnico** de plataforma. Diseño y opero plataformas distribuidas sobre **TypeScript** de punta a punta —NestJS y Node.js en backend, Angular en frontend, **Google Cloud** en infraestructura— con **arquitectura hexagonal, DDD y arquitecturas basadas en eventos**.
+**Full stack engineer with 13 years of experience**, **8 of them as technical lead** of a platform. I design and operate distributed platforms on end-to-end **TypeScript** —NestJS and Node.js on the backend, Angular on the frontend, **Google Cloud** for infrastructure— with **hexagonal architecture, DDD and event-driven architectures**.
 
-Integro **IA generativa en flujos de negocio reales, no en prototipos**: agentes LLM con *grounding* sobre la base de datos, *function calling* con contratos estrictos de entrada y salida, validación de esquema y control de latencia y costo.
+I put **generative AI into real business flows, not prototypes**: LLM agents grounded on the database, function calling with strict input and output contracts, schema validation, and control over latency and cost.
 
-* 🏗️ **Arquitectura:** hexagonal (puertos y adaptadores), DDD, microservicios, SSOT de contratos entre frontend y backend, eventos con idempotencia y reintentos con *backoff*.
-* 🤖 **IA aplicada:** Vertex AI + Gemini en producción, agentes LLM, RAG, *embeddings*, normalización y *matching* de datos por IA.
+* 🏗️ **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts between frontend and backend, idempotent events and retries with backoff.
+* 🤖 **Applied AI:** Vertex AI + Gemini in production, LLM agents, RAG, embeddings, AI-driven data normalization and matching.
 * ☁️ **Cloud:** GCP (GKE, Cloud Run, Cloud Functions, Pub/Sub, Dataflow, Cloud Scheduler, Cloud SQL, BigQuery), Docker, Kubernetes, CI/CD.
-* 🧪 **Calidad:** Clean Code, SOLID, pruebas unitarias y de integración con Jest, Vitest y Playwright como puerta previa a producción.
+* 🧪 **Quality:** Clean Code, SOLID, unit and integration tests with Jest, Vitest and Playwright as the gate before production.
 
 ---
 
-## 🏢 Grid Technologies — mi empresa
+## 🏢 Grid Technologies — my company
 
-Fundé **[Grid Technologies SpA](https://gridtechnologies.cl)** (Santiago de Chile) para **modernizar negocios que aún corren en planillas y sistemas viejos**: software a medida, automatización e **IA aplicada**.
+I founded **[Grid Technologies SpA](https://gridtechnologies.cl)** (Santiago, Chile) to **modernize businesses that still run on spreadsheets and legacy systems**: custom software, automation and **applied AI**.
 
-Todo el ecosistema vive en una arquitectura distribuida y desacoplada sobre una misma base técnica: **arquitectura hexagonal y DDD**, contratos compartidos como SSOT, **GCP** (Cloud Run, Cloud SQL PostgreSQL, Pub/Sub, Cloud Scheduler) y **flujos basados en eventos**.
+The whole ecosystem lives in a distributed, decoupled architecture on one shared technical foundation: **hexagonal architecture and DDD**, shared contracts as SSOT, **GCP** (Cloud Run, Cloud SQL PostgreSQL, Pub/Sub, Cloud Scheduler) and **event-driven flows**.
 
-### Plataformas & Soluciones
+### Platforms & Solutions
 
-| Plataforma | Qué resuelve |
+| Platform | What it solves |
 |---|---|
-| **[Grid Radar](https://gridradar.cl)** | **Inteligencia competitiva de precios B2B (Producto Insignia).** Monitoreo cross-retailer en tiempo real, detección de quiebres de stock, auditoría MAP, recomendaciones estratégicas para e-commerce y **servidor agéntico MCP oficial** para interoperabilidad con agentes de IA. Extracción serverless resiliente bajo demanda sobre Google Cloud. |
-| **[Grid Accounts](https://accounts.gridtechnologies.cl)** | **Identidad y gobernanza central (Capa Interna).** Proveedor unificado de identidad **OAuth2/OIDC** (RS256/JWKS, **WebAuthn/Passkeys** y **TOTP**), catálogo de servicios y motor central de facturación y suscripciones recurrentes que sostiene el acceso a Grid Radar. |
+| **[Grid Radar](https://gridradar.cl)** | **B2B competitive price intelligence (flagship product).** Real-time cross-retailer monitoring, stock-out detection, MAP auditing, strategic recommendations for e-commerce and an **official agentic MCP server** for interoperability with AI agents. Resilient, on-demand serverless extraction on Google Cloud. |
+| **[Grid Accounts](https://accounts.gridtechnologies.cl)** | **Central identity and governance (internal layer).** Unified **OAuth2/OIDC** identity provider (RS256/JWKS, **WebAuthn/Passkeys** and **TOTP**), service catalog and the central billing and recurring-subscription engine behind access to Grid Radar. |
 
-> **Enfoque de producto:** Grid Technologies concentra su oferta comercial exclusivamente en **[Grid Radar](https://gridradar.cl)**, respaldada por una infraestructura interna de alta fidelidad (identidad unificada con Grid Accounts, mensajería transaccional y orquestación serverless en Google Cloud).
+> **Product focus:** Grid Technologies concentrates its commercial offering exclusively on **[Grid Radar](https://gridradar.cl)**, backed by high-fidelity internal infrastructure (unified identity with Grid Accounts, transactional messaging and serverless orchestration on Google Cloud).
 
 ---
 
-## 🚀 Productos propios
+## 🚀 My own products
 
-### [PseudoIDE](https://pseudoide.dev) — IDE de pseudocódigo con intérprete propio
-Un IDE completo para aprender a programar en español, gratuito, en web y escritorio.
-Construido de principio a fin: **intérprete de pseudocódigo con soporte de POO**, capa de
-**transpilación a JavaScript en Web Workers**, **depurador paso a paso** con inspección de
-variables, **generación de diagramas de flujo** en vivo, editor **Monaco** con language
-providers propios, integración **Git** por IPC y vigilancia de archivos en tiempo real.
+### [PseudoIDE](https://pseudoide.dev) — Pseudocode IDE with its own interpreter
+A complete IDE for learning to program in Spanish, free, on web and desktop.
+Built end to end: a **pseudocode interpreter with OOP support**, a
+**transpilation layer to JavaScript running in Web Workers**, a **step-by-step debugger** with
+variable inspection, live **flowchart generation**, a **Monaco** editor with custom language
+providers, **Git** integration over IPC and real-time file watching.
 
-Distribuido en **web, Windows, macOS y Linux** (instalador, AppImage y .deb) con
-auto-updater e i18n español/inglés. 15 releases versionadas con
-[changelog público](https://pseudoide.dev/es/changelog).
+Distributed on **web, Windows, macOS and Linux** (installer, AppImage and .deb) with an
+auto-updater and Spanish/English i18n. 15 versioned releases with a
+[public changelog](https://pseudoide.dev/en/changelog).
 
 `Angular` · `Electron` · `TypeScript` · `Monaco` · `Web Workers` · `Cloudflare R2`
 
-### [@vcalderondev/ukit-css](https://www.npmjs.com/package/@vcalderondev/ukit-css) — Motor JIT de CSS utility-first
-Motor propio publicado en npm: escanea el código fuente, extrae solo las clases realmente
-usadas y emite únicamente ese CSS. Incluye CLI, plugin de Vite y plugin de PostCSS, y
-funciona con React, Vue, Angular, Svelte, Next.js, Astro y HTML plano.
+### [@vcalderondev/ukit-css](https://www.npmjs.com/package/@vcalderondev/ukit-css) — Utility-first JIT CSS engine
+My own engine, published on npm: it scans the source code, extracts only the classes actually
+in use and emits just that CSS. It ships a CLI, a Vite plugin and a PostCSS plugin, and
+works with React, Vue, Angular, Svelte, Next.js, Astro and plain HTML.
 
-En un proyecto con 46 utilidades distintas emite **~2,4 KB minificados** frente a los
-~770 KB de una librería de utilidades estática. En producción dentro de PseudoIDE.
+In a project with 46 distinct utilities it emits **~2.4 KB minified**, against the
+~770 KB of a static utility library. In production inside PseudoIDE.
 
 `Node.js` · `TypeScript` · `PostCSS` · `Vite`
 
 ---
 
-## 🛠️ Tecnologías & Stack Técnico
+## 🎮 Open source
 
-### 💻 Arquitectura & Desarrollo
-* **Arquitectura:** hexagonal (puertos y adaptadores), DDD, microservicios, SSOT de contratos, arquitecturas basadas en eventos (EDA), idempotencia y reintentos
-* **Backend:** Node.js, NestJS, TypeScript, Express, TypeORM, APIs REST, OAuth2/OIDC y SSO
-* **Frontend:** Angular (standalone + signals), React, Electron, Capacitor, Monaco Editor, SASS, Tailwind CSS, i18n
-* **Bases de Datos:** PostgreSQL, AlloyDB, MySQL, MariaDB, BigQuery, Redis
-* **Testing:** Jest, Vitest y Playwright
+### [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
+A fast, lightweight frontend written in C for Sony's PlayStation Classic: a **3D jewel-case
+carousel in OpenGL ES 3.0** with spring physics, lighting and floor reflections, in a
+**single ~75 KB binary**. It launches games in RetroArch and returns to the same game
+afterwards, with favourites, folders, profiles, themes and a UI translated into six languages.
 
-### 🤖 Inteligencia Artificial aplicada
-* Google Cloud **Vertex AI** / Generative AI Studio · **Gemini** · *embeddings*
-* **Agentes LLM con *grounding*** sobre base de datos, *function calling* y contratos estrictos de entrada/salida
-* **RAG**, normalización y *matching* de datos por IA
-* **Servidor MCP** propio y orquestación multi-agente
+It brings its own modern system stack, built from upstream sources by
+[psc-platform](https://github.com/vcalderondev/psc-platform) (cross toolchain included):
+**Wayland 1.26, Weston 16 and RetroArch 1.22** on a console that ships with Wayland 1.12 and
+Weston 1.11. It runs from a USB stick on any stock console and **writes nothing to internal
+memory**: the stack is unpacked to RAM at every boot and overlaid on `/usr`.
 
-### ☁️ Cloud & DevOps
-* **Plataforma:** Google Cloud Platform (GKE, Cloud Run, Cloud Functions, **Pub/Sub**, **Dataflow**, **Cloud Scheduler**, Cloud SQL, BigQuery)
-* **Contenedores:** Docker, Kubernetes (GKE) · **CDN:** Cloudflare
-* **CI/CD:** GitHub Actions y Google Cloud Build
+Source on [GitHub](https://github.com/vcalderondev/lumen-psx) (GPLv3), with animated
+backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/lumen-scenes).
+
+`C` · `OpenGL ES` · `SDL2` · `Wayland` · `Embedded Linux` · `ARM cross-compilation`
 
 ---
 
-## 📬 Conectemos
+## 🛠️ Technologies & Tech Stack
 
-Si te interesa la arquitectura cloud, la IA aplicada a negocio real o la inteligencia de mercado con Grid Radar:
+### 💻 Architecture & Development
+* **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts, event-driven architectures (EDA), idempotency and retries
+* **Backend:** Node.js, NestJS, TypeScript, Express, TypeORM, REST APIs, OAuth2/OIDC and SSO
+* **Frontend:** Angular (standalone + signals), React, Electron, Capacitor, Monaco Editor, SASS, Tailwind CSS, i18n
+* **Databases:** PostgreSQL, AlloyDB, MySQL, MariaDB, BigQuery, Redis
+* **Testing:** Jest, Vitest and Playwright
+* **Systems:** C, OpenGL ES, SDL2, embedded Linux, cross-compilation for ARM
 
-* 🌐 **Sitio personal:** [vcalderon.dev](https://vcalderon.dev)
+### 🤖 Applied Artificial Intelligence
+* Google Cloud **Vertex AI** / Generative AI Studio · **Gemini** · embeddings
+* **LLM agents grounded** on the database, function calling and strict input/output contracts
+* **RAG**, AI-driven data normalization and matching
+* Custom **MCP server** and multi-agent orchestration
+
+### ☁️ Cloud & DevOps
+* **Platform:** Google Cloud Platform (GKE, Cloud Run, Cloud Functions, **Pub/Sub**, **Dataflow**, **Cloud Scheduler**, Cloud SQL, BigQuery)
+* **Containers:** Docker, Kubernetes (GKE) · **CDN:** Cloudflare
+* **CI/CD:** GitHub Actions and Google Cloud Build
+
+---
+
+## 📬 Let's connect
+
+If you are interested in cloud architecture, AI applied to real business, or market intelligence with Grid Radar:
+
+* 🌐 **Personal site:** [vcalderon.dev](https://vcalderon.dev)
 * 🎯 **Grid Radar:** [gridradar.cl](https://gridradar.cl)
 * 🏢 **Grid Technologies:** [gridtechnologies.cl](https://gridtechnologies.cl)
-* 🚀 **Producto propio:** [pseudoide.dev](https://pseudoide.dev)
+* 🚀 **Own product:** [pseudoide.dev](https://pseudoide.dev)
+* 🎮 **Lumen PSX:** [lpsx.vcalderon.dev](https://lpsx.vcalderon.dev)
 * 💼 **LinkedIn:** [linkedin.com/in/vcalderondev](https://www.linkedin.com/in/vcalderondev/)
-* ✉️ **Correo:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
+* ✉️ **Email:** [mail@vcalderon.dev](mailto:mail@vcalderon.dev)
 
-<sub>PseudoIDE y @vcalderondev/ukit-css son productos independientes propios. Grid Radar y Grid Accounts son plataformas de Grid Technologies SpA.</sub>
+<sub>PseudoIDE and @vcalderondev/ukit-css are my own independent products. Lumen PSX is a personal open-source project, not affiliated with Sony. Grid Radar and Grid Accounts are platforms of Grid Technologies SpA.</sub>
