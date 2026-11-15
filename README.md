@@ -1,4 +1,4 @@
-# Víctor Calderón Oyarce 👋
+# Víctor Calderón Oyarce
 
 ### Senior Full Stack Engineer · TypeScript · NestJS · Angular · Google Cloud
 ### Founder of <img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" height="18" align="center"> [Grid Technologies](https://gridtechnologies.cl) · Creator of <img src="https://gridradar.cl/grid-radar.svg" alt="" height="18" align="center"> [Grid Radar](https://gridradar.cl)
@@ -12,21 +12,21 @@
   <a href="mailto:mail@vcalderon.dev"><img alt="Email" src="https://img.shields.io/badge/mail@vcalderon.dev-5a6472?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-🇨🇱 **Constitución, Chile** — open to relocating to Santiago · **Remote or hybrid**
-💼 Company: **[Grid Technologies SpA](https://gridtechnologies.cl)** · 🎯 Main product: **[Grid Radar](https://gridradar.cl)** · 🌐 **[vcalderon.dev](https://vcalderon.dev)**
+<img src="images/icons/location-dot.svg" alt="" height="16" align="center"> **Constitución, Chile** — open to relocating to Santiago · **Remote or hybrid**
+<img src="images/icons/building.svg" alt="" height="16" align="center"> Company: **[Grid Technologies SpA](https://gridtechnologies.cl)** · <img src="https://gridradar.cl/grid-radar.svg" alt="" height="16" align="center"> Main product: **[Grid Radar](https://gridradar.cl)** · <img src="https://vcalderon.dev/favicon/apple-touch-icon.png" alt="" height="16" align="center"> **[vcalderon.dev](https://vcalderon.dev)**
 
 ---
 
-## 👨‍💻 About me
+## <img src="images/icons/user.svg" alt="" height="18" align="center"> About me
 
 **Full stack engineer with 13 years of experience**, **8 of them as technical lead** of a platform. I design and operate distributed platforms on end-to-end **TypeScript** —NestJS and Node.js on the backend, Angular on the frontend, **Google Cloud** for infrastructure— with **hexagonal architecture, DDD and event-driven architectures**.
 
 I put **generative AI into real business flows, not prototypes**: LLM agents grounded on the database, function calling with strict input and output contracts, schema validation, and control over latency and cost.
 
-* 🏗️ **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts between frontend and backend, idempotent events and retries with backoff.
-* 🤖 **Applied AI:** Vertex AI + Gemini in production, LLM agents, RAG, embeddings, AI-driven data normalization and matching.
-* ☁️ **Cloud:** GCP (GKE, Cloud Run, Cloud Functions, Pub/Sub, Dataflow, Cloud Scheduler, Cloud SQL, BigQuery), Docker, Kubernetes, CI/CD.
-* 🧪 **Quality:** Clean Code, SOLID, unit and integration tests with Jest, Vitest and Playwright as the gate before production.
+* <img src="images/icons/sitemap.svg" alt="" height="16" align="center"> **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts between frontend and backend, idempotent events and retries with backoff.
+* <img src="images/icons/robot.svg" alt="" height="16" align="center"> **Applied AI:** Vertex AI + Gemini in production, LLM agents, RAG, embeddings, AI-driven data normalization and matching.
+* <img src="images/icons/cloud.svg" alt="" height="16" align="center"> **Cloud:** GCP (GKE, Cloud Run, Cloud Functions, Pub/Sub, Dataflow, Cloud Scheduler, Cloud SQL, BigQuery), Docker, Kubernetes, CI/CD.
+* <img src="images/icons/vial.svg" alt="" height="16" align="center"> **Quality:** Clean Code, SOLID, unit and integration tests with Jest, Vitest and Playwright as the gate before production.
 
 ---
 
@@ -46,7 +46,7 @@ The whole ecosystem lives in a distributed, decoupled architecture on one shared
 
 ---
 
-## 🚀 My own products
+## <img src="images/icons/rocket.svg" alt="" height="18" align="center"> My own products
 
 ### <img src="https://pseudoide.dev/favicon.svg" alt="" height="18" align="center"> [PseudoIDE](https://pseudoide.dev) — Pseudocode IDE with its own interpreter
 A complete IDE for learning to program in Spanish, free, on web and desktop.
@@ -73,7 +73,7 @@ In a project with 46 distinct utilities it emits **~2.4 KB minified**, against t
 
 ---
 
-## 🎮 Open source
+## <img src="images/icons/code-branch.svg" alt="" height="18" align="center"> Open source
 
 ### <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="center"> [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
 A fast, lightweight frontend written in C for Sony's PlayStation Classic: a **3D jewel-case
@@ -94,9 +94,9 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 
 ---
 
-## 🛠️ Technologies & Tech Stack
+## <img src="images/icons/screwdriver-wrench.svg" alt="" height="18" align="center"> Technologies & Tech Stack
 
-### 💻 Architecture & Development
+### <img src="images/icons/code.svg" alt="" height="18" align="center"> Architecture & Development
 * **Architecture:** hexagonal (ports and adapters), DDD, microservices, SSOT contracts, event-driven architectures (EDA), idempotency and retries
 * **Backend:** Node.js, NestJS, TypeScript, Express, TypeORM, REST APIs, OAuth2/OIDC and SSO
 * **Frontend:** Angular (standalone + signals), React, Electron, Capacitor, Monaco Editor, SASS, Tailwind CSS, i18n
@@ -104,20 +104,20 @@ backgrounds contributed through [lumen-scenes](https://github.com/vcalderondev/l
 * **Testing:** Jest, Vitest and Playwright
 * **Systems:** C, OpenGL ES, SDL2, embedded Linux, cross-compilation for ARM
 
-### 🤖 Applied Artificial Intelligence
+### <img src="images/icons/robot.svg" alt="" height="18" align="center"> Applied Artificial Intelligence
 * Google Cloud **Vertex AI** / Generative AI Studio · **Gemini** · embeddings
 * **LLM agents grounded** on the database, function calling and strict input/output contracts
 * **RAG**, AI-driven data normalization and matching
 * Custom **MCP server** and multi-agent orchestration
 
-### ☁️ Cloud & DevOps
+### <img src="images/icons/cloud.svg" alt="" height="18" align="center"> Cloud & DevOps
 * **Platform:** Google Cloud Platform (GKE, Cloud Run, Cloud Functions, **Pub/Sub**, **Dataflow**, **Cloud Scheduler**, Cloud SQL, BigQuery)
 * **Containers:** Docker, Kubernetes (GKE) · **CDN:** Cloudflare
 * **CI/CD:** GitHub Actions and Google Cloud Build
 
 ---
 
-## 📬 Let's connect
+## <img src="images/icons/paper-plane.svg" alt="" height="18" align="center"> Let's connect
 
 If you are interested in cloud architecture, AI applied to real business, or market intelligence with Grid Radar:
 
@@ -127,8 +127,8 @@ If you are interested in cloud architecture, AI applied to real business, or mar
   <tr><td align="center"><img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" width="20" height="20"></td><td><strong>Grid Technologies</strong></td><td><a href="https://gridtechnologies.cl">gridtechnologies.cl</a></td></tr>
   <tr><td align="center"><img src="https://pseudoide.dev/favicon.svg" alt="" width="20" height="20"></td><td><strong>PseudoIDE</strong></td><td><a href="https://pseudoide.dev">pseudoide.dev</a></td></tr>
   <tr><td align="center"><img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" width="20" height="20"></td><td><strong>Lumen PSX</strong></td><td><a href="https://lpsx.vcalderon.dev">lpsx.vcalderon.dev</a></td></tr>
-  <tr><td align="center">💼</td><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/vcalderondev/">linkedin.com/in/vcalderondev</a></td></tr>
-  <tr><td align="center">✉️</td><td><strong>Email</strong></td><td><a href="mailto:mail@vcalderon.dev">mail@vcalderon.dev</a></td></tr>
+  <tr><td align="center"><img src="images/icons/linkedin.svg" alt="" height="20"></td><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/vcalderondev/">linkedin.com/in/vcalderondev</a></td></tr>
+  <tr><td align="center"><img src="images/icons/envelope.svg" alt="" height="20"></td><td><strong>Email</strong></td><td><a href="mailto:mail@vcalderon.dev">mail@vcalderon.dev</a></td></tr>
 </table>
 
 <sub>PseudoIDE and @vcalderondev/ukit-css are my own independent products. Lumen PSX is a personal open-source project, not affiliated with Sony. Grid Radar is a platform of Grid Technologies SpA.</sub>
