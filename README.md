@@ -7,7 +7,7 @@
   <a href="https://vcalderon.dev"><img alt="Website" src="https://img.shields.io/badge/vcalderon.dev-15243b?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://gridradar.cl"><img alt="Grid Radar" src="https://img.shields.io/badge/Grid_Radar-0ea5e9?style=flat-square&logo=chartdotjs&logoColor=white"></a>
   <a href="https://gridtechnologies.cl"><img alt="Grid Technologies" src="https://img.shields.io/badge/Grid_Technologies-1f6fb2?style=flat-square&logo=icloud&logoColor=white"></a>
-  <a href="https://lpsx.vcalderon.dev"><img alt="Lumen PSX" src="https://img.shields.io/badge/Lumen_PSX-003791?style=flat-square&logo=playstation&logoColor=white"></a>
+  <a href="https://lpsx.dev"><img alt="Lumen PSX" src="https://img.shields.io/badge/Lumen_PSX-003791?style=flat-square&logo=playstation&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vcalderondev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mail@vcalderon.dev"><img alt="Email" src="https://img.shields.io/badge/mail@vcalderon.dev-5a6472?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
@@ -75,7 +75,7 @@ In a project with 46 distinct utilities it emits **~2.4 KB minified**, against t
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/code-branch.svg"><img src="images/icons/light/code-branch.svg" alt="" height="18" align="absmiddle"></picture> Open source
 
-### <img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" height="18" align="absmiddle"> [Lumen PSX](https://lpsx.vcalderon.dev) — 3D game frontend for the PlayStation Classic
+### <img src="https://lpsx.dev/brand/favicon.svg" alt="" height="18" align="absmiddle"> [Lumen PSX](https://lpsx.dev) — 3D game frontend for the PlayStation Classic
 A fast, lightweight frontend written in C for Sony's PlayStation Classic: a **3D jewel-case
 carousel in OpenGL ES 3.0** with spring physics, lighting and floor reflections, in a
 **single ~75 KB binary**. It launches games in RetroArch and returns to the same game
@@ -126,7 +126,7 @@ If you are interested in cloud architecture, AI applied to real business, or mar
   <tr><td align="center"><img src="https://gridradar.cl/grid-radar.svg" alt="" width="20" height="20"></td><td><strong>Grid Radar</strong></td><td><a href="https://gridradar.cl">gridradar.cl</a></td></tr>
   <tr><td align="center"><img src="https://resources.gridtechnologies.cl/brand/grid-tiles.svg" alt="" width="20" height="20"></td><td><strong>Grid Technologies</strong></td><td><a href="https://gridtechnologies.cl">gridtechnologies.cl</a></td></tr>
   <tr><td align="center"><img src="https://pseudoide.dev/favicon.svg" alt="" width="20" height="20"></td><td><strong>PseudoIDE</strong></td><td><a href="https://pseudoide.dev">pseudoide.dev</a></td></tr>
-  <tr><td align="center"><img src="https://lpsx.vcalderon.dev/brand/favicon.svg" alt="" width="20" height="20"></td><td><strong>Lumen PSX</strong></td><td><a href="https://lpsx.vcalderon.dev">lpsx.vcalderon.dev</a></td></tr>
+  <tr><td align="center"><img src="https://lpsx.dev/brand/favicon.svg" alt="" width="20" height="20"></td><td><strong>Lumen PSX</strong></td><td><a href="https://lpsx.dev">lpsx.dev</a></td></tr>
   <tr><td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/linkedin.svg"><img src="images/icons/light/linkedin.svg" alt="" height="20"></picture></td><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/vcalderondev/">linkedin.com/in/vcalderondev</a></td></tr>
   <tr><td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/icons/dark/envelope.svg"><img src="images/icons/light/envelope.svg" alt="" height="20"></picture></td><td><strong>Email</strong></td><td><a href="mailto:mail@vcalderon.dev">mail@vcalderon.dev</a></td></tr>
 </table>
